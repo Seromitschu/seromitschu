@@ -17,4 +17,4 @@
 <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=seromitschu&show_icons=true&theme=dark">
 <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=seromitschu&theme=dark">
 <br><br><br><br><br><br><br><br><br><br>
-<p align="center">⭐️ From <a href="https://github.com/Seromitschu">@seromitschu</a></p>
+<p>⭐️ From <a href="https://github.com/Seromitschu">@seromitschu</a></p>
