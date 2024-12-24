@@ -10,9 +10,3 @@
   <img src="readme.gif"/>
 </p>
 
- <img width="45%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=dpzbuw7zcqedqxsq6q43z465l&cover_image=true&theme=natemoo-re&show_offline=true&background_color=141414&bar_color=ffffff&bar_color_cover=false"/>
-
-<img  align="left" width="45%" src="https://count.getloli.com/get/@:seromitschu?theme=asoul"> 
-
-<img align="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=seromitschu&show_icons=true&theme=dark">
-<img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=seromitschu&theme=dark">
